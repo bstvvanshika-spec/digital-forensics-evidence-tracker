@@ -1,0 +1,47 @@
+[
+    {
+        "evidence_id": "001",
+        "case_number": "case01",
+        "item_name": "mobile phone",
+        "description": "Android mobile phone collected for digital forensic examination. The device may contain call logs, SMS messages, contacts, photographs, videos, and other digital data relevant to the investigation.",
+        "collected_by": "student investigator",
+        "collection_date": "2026-10-22T22:31:39",
+        "status": "Collected"
+    },
+    {
+        "evidence_id": "002",
+        "case_number": "case01",
+        "item_name": "laptop",
+        "description": "Laptop collected for digital forensic examination. The device may contain documents, browsing history, emails, downloaded files, and other digital data relevant to the investigation.",
+        "collected_by": "student investigator",
+        "collection_date": "2026-10-22T22:45:48",
+        "status": "Collected"
+    },
+    {
+        "evidence_id": "003",
+        "case_number": "case02",
+        "item_name": "usb flash drive",
+        "description": "USB flash drive collected for forensic analysis. It may contain stored documents, images, videos, deleted files, and other data relevant to the investigation.",
+        "collected_by": "student investigator",
+        "collection_date": "2026-10-22T22:49:30",
+        "status": "Collected"
+    },
+    {
+        "evidence_id": "004",
+        "case_number": "case02",
+        "item_name": "hard disk drive",
+        "description": "Hard disk drive submitted for digital forensic examination. It may contain user files, system logs, application data, and other information useful for identifying digital evidence.",
+        "collected_by": "student investigator",
+        "collection_date": "2026-10-22T22:53:29",
+        "status": "Collected"
+    },
+    {
+        "evidence_id": "005",
+        "case_number": "case03",
+        "item_name": "memory card",
+        "description": "Memory card collected for digital forensic analysis. It may contain photographs, videos, audio recordings, and other stored files relevant to the investigation.",
+        "collected_by": "student investigator",
+        "collection_date": "2026-10-22T22:56:17",
+        "status": "Collected"
+    }
+]
